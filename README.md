@@ -37,7 +37,7 @@ My work combines frontend architecture, e-commerce, CMS engineering, APIs, infra
 
 | Period | Role | Focus |
 | --- | --- | --- |
-| 2025-present | Frontend Architecture Engineer — Orenji Studio × Casey AI | Next.js, design systems, REST, GraphQL, CI/CD |
+| 2025 | Frontend Architecture Engineer — Orenji Studio × Casey AI | Next.js, design systems, REST, GraphQL, CI/CD |
 | 2015-present | Independent Full-Stack Engineer — Mifan Studio | Shopify, WordPress, frontend applications, integrations |
 | 2019-2025 | Systems Engineer — Grain Group | Multi-brand commerce platforms, CMS, CRM, infrastructure |
 | 2015-2020 | Frontend & Firmware Engineer — Skycoin | React, APIs, firmware, hardware, GCP |
